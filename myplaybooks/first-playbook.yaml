@@ -13,4 +13,4 @@
         dest: /var/www/html
         owner: root
         group: root
-        mode: '0644'
+        mode: '6044'
